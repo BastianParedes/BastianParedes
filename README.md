@@ -5,12 +5,15 @@ I am a professional with 5 years of experience as a mathematics teacher and 5 ye
 ## 💼 Professional Experience
 
 ### 👨‍💻 Frontend Developer
-#### Falabella Technologies Corporative (2020 - Present)
+#### <span style="display:flex; align-items: center">Falabella Technologies Corporative<img style="margin-left: .5rem" alt="Static Badge" src="https://img.shields.io/badge/2020-present-8A2BE2?style=flat&logoSize=10"></span>
+
 - Developing and maintaining web applications using React, Next and Fastify.
-- Developing A/B testing for Falabella e-commerce.
+- Developing A/B tests for Falabella e-commerce.
 
 ### 👨‍🏫 Teacher
-#### Multiple schools (2017 - 2022)
+#### <span style="display:flex; align-items: center">Multiple schools<img style="margin-left: .5rem" alt="Static Badge" src="https://img.shields.io/badge/2017-2029-8A2BE2?style=flat&logoSize=10"></span> 
+
+
 - Planning and delivering mathematics lessons for high school students.
 - Developing educational apps and resources to foster interest in mathematics.
 
