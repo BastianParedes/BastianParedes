@@ -7,7 +7,7 @@ I am a professional with 5 years of experience as a mathematics teacher and 5 ye
 ### 👨‍💻 Frontend Developer
 #### Falabella Technologies Corporative (2020 - Present)
 - Developing and maintaining web applications using React, Next and Fastify.
-- Developing A/B testing for Falabella e-commerce.
+- Developing A/B tests for Falabella e-commerce.
 
 ### 👨‍🏫 Teacher
 #### Multiple schools (2017 - 2022)
