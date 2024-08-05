@@ -47,3 +47,7 @@ I am a professional with 5 years of experience as a mathematics teacher and 5 ye
 - **Español**: Native Speaker
 - **English**: C1
 - **French**: A2
+
+
+## ☎️ Contact
+- E-mail: [bastian.p@outlook.com](mailto:bastian.p@outlook.com)
